@@ -50,7 +50,7 @@ Click Forget Password
     Click Link   link-forgot  
 
 Click Back Button
-    Click Button    Back  
+    Click Button    css:button.btn-back 
 
 Click Reset My Password
     Click Button   Reset My Password  

@@ -11,6 +11,6 @@ Valid Login
     Input Username    admin@phptravels.com
     Input Password    demoadmin
     Submit Credentials
-    Wait Until Page Contains  Dashboard   timeout=2
+    Wait Until Page Contains  Dashboard   timeout=3
     Welcome Page Should Be Open
     [Teardown]    Close Browser
